@@ -5,7 +5,12 @@ This repository contains some projects from a module I completed at York, as wel
 For the projects from my numerical methods for PDEs module at York, there are pdf documents accompanying the code to explain the problems I was trying to solve.
 
 ### Project 1
+Parabolic Heat Equation implemented solved using the Crank-Nicolson method. Implemented using the double-sweep method.
 
+- PDE problem and implementation
+- Files required:
+   - 
+   -
 
 
 ### Project 2
