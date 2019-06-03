@@ -9,12 +9,15 @@ Parabolic Heat Equation implemented solved using the Crank-Nicolson method. Impl
 
 - PDE problem and implementation [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/pde_project_1.pdf)
 - Files required
-   * [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/project_c_n.m) 
-   * [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/plot_u_on_single_figure_1.m)
+   * Crank-Nicolson implementation [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/project_c_n.m) 
+   * Plotting results [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/plot_u_on_single_figure_1.m)
 
 ### Project 2
 PDE problem and implementation of code [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/pde_project_2.pdf)
 1. Solve a generalised PDE using MATLAB's built-in `pdepe` function.
-   * [here]()
+   * Specifying BC [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/pde_1_bc.m)
+   * Specifying IC [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/pde_1_ic.m)
+   * Specifying PDE [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/pde_1_function.m)
+   * Plotting results [here](https://github.com/thomasarmstrong98/numericPDE/blob/master/plot_u_on_single_figure.m)
 2. Solving a two-dimensional heat equation with the ADI method.
-   * [here]()
+   * ADI implementation [here](ADI_method.m)
